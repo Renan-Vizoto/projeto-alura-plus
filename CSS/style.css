@@ -179,7 +179,15 @@ body{
         display: block;
     }
 
+    .dispositivos__titulo{
+        font-size: 40px;
+    }
+
     .rodape__lista{
         display: block;
+    }
+
+    .container{
+        height: 83vh;
     }
 }
